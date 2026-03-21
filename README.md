@@ -23,6 +23,12 @@
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+### Recently
+
+- `content-pipeline` — 콘텐츠 자동 생성/배포 파이프라인 (SEO, Claude API, TikTok/Instagram 연동)
+- `timetrack` — macOS 자동 시간 추적 앱 (FastAPI 기반)
+- `coupang-blog-automation` — 쿠팡 파트너스 블로그 자동화
+
 ### GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=krlns3571&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" height="150" />
