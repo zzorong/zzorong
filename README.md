@@ -1,15 +1,4 @@
-## Hi, I'm Jihoon 👋
-
-7년차 백엔드 개발자 / 데이터 엔지니어입니다.
-데이터 파이프라인 구축, 스크래핑 엔진 설계, 클라우드 인프라 관리를 주로 해왔습니다.
-
-### Career
-
-| 기간 | 회사 | 역할 |
-|------|------|------|
-| 2024.08 ~ | 한국신용데이터 (KCD) | 재직중 |
-| 2021.05 ~ 2024.04 | (주)누벤트 | 백엔드 / 데이터 엔지니어 |
-| 2018.08 ~ 2021.01 | (주)컨셉터스 | 크롤링 / 데이터 처리 |
+## 박지훈 | Backend / Data Engineer
 
 ### Tech Stack
 
@@ -33,14 +22,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### What I Do
-
-- 🔧 데이터 파이프라인 설계 및 일일 10만건+ 데이터 처리 엔진 개발
-- 🕷️ 배달 플랫폼 / 포스사 / SNS 스크래핑 엔진 설계 및 운영
-- 🔄 분산 비동기 처리 시스템 구축 (RabbitMQ, Celery, FastAPI)
-- ☁️ AWS → Azure 클라우드 이관 및 인프라 관리
-- 📊 Grafana 모니터링 + Slack 알림 시스템 구축
 
 ### GitHub Stats
 
