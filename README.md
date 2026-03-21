@@ -23,11 +23,14 @@
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Recently
+### Recently <sub>updated: 2026-03-21</sub>
 
 - `content-pipeline` — 콘텐츠 자동 생성/배포 파이프라인 (SEO, Claude API, TikTok/Instagram 연동)
+- `tiktok-to-instagram` — TikTok to Instagram 리포스트 자동화
 - `timetrack` — macOS 자동 시간 추적 앱 (FastAPI 기반)
 - `coupang-blog-automation` — 쿠팡 파트너스 블로그 자동화
+
+관심: AI 에이전트 도구 (everything-claude-code fork)
 
 ### GitHub Stats
 
