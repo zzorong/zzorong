@@ -23,7 +23,7 @@
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Recently <sub>updated: 2026-03-21</sub>
+### Recently <sub>updated: 2026-03-28</sub>
 
 - `content-pipeline` — 콘텐츠 자동 생성/배포 파이프라인 (SEO, Claude API, TikTok/Instagram 연동)
 - `tiktok-to-instagram` — TikTok to Instagram 리포스트 자동화
