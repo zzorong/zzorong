@@ -23,11 +23,11 @@
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Recently <sub>updated: 2026-03-29</sub>
+### Recently <sub>updated: 2026-03-30</sub>
 
-- `content-pipeline` — 콘텐츠 자동 생성/배포 파이프라인 (SEO, Claude API, TikTok/Instagram 연동)
-- `discord-bot` — 네이버부동산 매물 검색 등 자연어 명령 처리 Discord 봇
-- `tiktok-to-instagram` — TikTok to Instagram 리포스트 자동화
+- `coupang-blog-automation` — 쿠팡 파트너스 블로그 자동 수익화 시스템
+- `content-pipeline` — 콘텐츠 자동화 파이프라인 (블로그 수익화 + TikTok/Instagram 연동)
+- `discord-bot` — 네이버부동산 매물 검색 + 역세권 정보 Discord 봇
 - `timetrack` — macOS 자동 시간 추적 앱 (FastAPI 기반)
 
 ### GitHub Stats
