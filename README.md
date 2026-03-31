@@ -23,7 +23,7 @@
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Recently <sub>updated: 2026-03-30</sub>
+### Recently <sub>updated: 2026-03-31</sub>
 
 - `coupang-blog-automation` — 쿠팡 파트너스 블로그 자동 수익화 시스템
 - `content-pipeline` — 콘텐츠 자동화 파이프라인 (블로그 수익화 + TikTok/Instagram 연동)
