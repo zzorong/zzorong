@@ -30,7 +30,7 @@
 - `discord-bot` — 네이버부동산 매물 검색 + 역세권 정보 Discord 봇
 - `coupang-blog-automation` — 쿠팡 파트너스 블로그 자동 수익화 시스템
 - `content-pipeline` — 콘텐츠 자동화 파이프라인 (블로그 수익화 + TikTok/Instagram 연동)
-- `tiktok-to-instagram` — TikTok 영상을 Instagram Reel로 자동 리포스트하는 CLI 도구
+- `timetrack` — macOS 자동 시간 추적 앱 (활동 기반 자동 분류, FastAPI 대시보드)
 
 ### GitHub Stats
 
